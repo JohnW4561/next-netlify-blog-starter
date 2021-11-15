@@ -36,7 +36,7 @@ The choices are limitless when it comes to beginner mountain bikes, but there ar
 It is important to know what kind of riding you will be doing before purchasing a new mountain bike. If you are just starting out, then an entry-level model is sufficient. If you have more experience then you may want to go with an intermediate or advanced model.
 
 ## Where to Learn More About Trail Bike Riding?
-There are lots of places out there on the world wide web. Some of the best places on the web are blogs about trail biking. One of my favorite blogs is <a href="https://mountainbikeexperience.com">https://mountainbikeexperience.com</a>.  Great blog, lots of great information to get you started.
+There are lots of places out there on the world wide web. Some of the best places on the web are blogs about trail biking. One of my favorite blogs is [https://mountainbikeexperience.com](https://mountainbikeexperience.com).  Great blog, lots of great information to get you started.
 
 Once you learn the basics from blogs, I'd move up to forums where you can interactively ask questions of other users and you'll know the basics so it'll all make sense.
 
